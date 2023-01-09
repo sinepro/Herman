@@ -1,3 +1,9 @@
+# Návod na spustenie
+1. Stiahnuť repozitár.
+2. Otvoriť príkazový riadok v stiahnutom repozitári.
+3. Nainštalovať potrebné súbory pomocou príkazu 'npm install' v príkazovom riadku.
+4. Po dokončení inštalácie zadať príkaz 'npm start', pomocou ktorého zadaní sa otvorí nové okno vo webovom prehliadači s danou aplikáciou.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
